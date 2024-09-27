@@ -1,4 +1,12 @@
+import Footer from "./component/footer";
+
 function Index() {
-  return <h1>IFMS-DOURADOS</h1>
+  return 
+  <>
+    <NavBar/>
+    <h1>Olá Mundo</h1>
+    <Footer/>
+  </>
+  
 }
 export default Index;
