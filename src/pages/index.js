@@ -1,4 +1,4 @@
 function Index() {
-  return <h1>Olá Mundo, eu sou linda!!!</h1>
+  return <h1>IFMS-DOURADOS</h1>
 }
 export default Index;
